@@ -1,0 +1,28 @@
+//Colors grid styles//
+
+.color {
+  padding: 1rem 2rem;
+  cursor: pointer;
+  font-size: 1rem;
+  text-transform: none;
+}
+
+.light-color{
+    color: $white;
+}
+
+  .weight{
+      text-align: start;
+
+  }
+
+  .hex{
+      margin-top: .5rem;
+  }
+
+  .copied{
+    text-transform: uppercase;
+    font-size: .75rem;  
+    margin-top: .5rem;  
+    position: absolute;
+    }
