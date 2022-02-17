@@ -9,8 +9,8 @@ Simple and nice user interface design. An application with functionalities that 
 
 ### Dependencies
 
-ReactJS
-SASS
+* ReactJS
+* SASS
 
 ### Executing program
 
